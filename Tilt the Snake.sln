@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tilt the Snake", "Tilt the Snake.csproj", "{B1B521D9-2EDF-BC79-2BA1-9FB2FA9B320E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tilt the Snake.Editor", "Tilt the Snake.Editor.csproj", "{92C54AD7-A305-EA74-A4A7-6453D0FC41FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1B521D9-2EDF-BC79-2BA1-9FB2FA9B320E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B521D9-2EDF-BC79-2BA1-9FB2FA9B320E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B521D9-2EDF-BC79-2BA1-9FB2FA9B320E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B521D9-2EDF-BC79-2BA1-9FB2FA9B320E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C54AD7-A305-EA74-A4A7-6453D0FC41FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C54AD7-A305-EA74-A4A7-6453D0FC41FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C54AD7-A305-EA74-A4A7-6453D0FC41FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C54AD7-A305-EA74-A4A7-6453D0FC41FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
